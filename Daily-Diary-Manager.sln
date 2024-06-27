@@ -5,6 +5,8 @@ VisualStudioVersion = 17.10.34928.147
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiaryManager", "DiaryManager\DiaryManager.csproj", "{411C4E99-F8F2-4AA7-9C35-0919F3F5A6D1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiaryManagerTests", "DiaryManagerTests\DiaryManagerTests.csproj", "{075D5640-17B4-4630-9525-C65919B623DA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{411C4E99-F8F2-4AA7-9C35-0919F3F5A6D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{411C4E99-F8F2-4AA7-9C35-0919F3F5A6D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{411C4E99-F8F2-4AA7-9C35-0919F3F5A6D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{075D5640-17B4-4630-9525-C65919B623DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{075D5640-17B4-4630-9525-C65919B623DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{075D5640-17B4-4630-9525-C65919B623DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{075D5640-17B4-4630-9525-C65919B623DA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
